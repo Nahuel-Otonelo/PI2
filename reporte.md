@@ -18,7 +18,7 @@ Este informe está basado en datos oficiales del Gobierno de la Ciudad y busca m
 
 Desde la [página](https://data.buenosaires.gob.ar/dataset/víctimas-siniestros-viales) del gobierno, pueden descargarse datos de siniestros viales que provocaron lesiones, y homicidios en formato xlsx. En este trabajo se analiza solo el archivo **Homicidios (XLSX)**. Este archivo a su vez posee dos tablas, una llamada **hechos** y otra **víctimas**. En la tabla hechos hay información a cerca del accidente y en la tabla víctimas de las personas involucradas en el suceso.
 
-Ir directo a [Conclusiones](#Conclusiones)
+Por si queres ir directo a [Conclusiones](#Conclusiones)
 
 
 ### Análisis de la tabla **hechos**
