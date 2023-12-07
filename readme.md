@@ -13,7 +13,7 @@ En este directorio se encuentran los archivos:
 
 * **ETL_y_EDA.ipynb**: se aborda en detalle un análisis exploratorio de datos a cerca de los siniestros viales de la Ciudad de Buenos Aires durante enero del 2016 a diciembre del 2021. En el pueden verse todos las consideraciones, gráficos y las conclusiones de ellos.
 
-* **Reporte.md**: es un archivo un poco mas resumido que el ETL_y_EDA.ipynb en donde solo se muestran los gráficos y algunas reflexiones a serca de ellos.
+* **Reporte.md**: es un archivo un poco mas resumido que el ETL_y_EDA.ipynb en donde solo se muestran los gráficos y algunas reflexiones acerca de ellos.
 
 * Por último si lo desea, puede escribirme a mi correo nahuelotonelo@gmail.com y puedo enviarle el **dashboard** de **Power Bi**.
 
