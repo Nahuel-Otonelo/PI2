@@ -18,6 +18,9 @@ Este informe está basado en datos oficiales del Gobierno de la Ciudad y busca m
 
 Desde la [página](https://data.buenosaires.gob.ar/dataset/víctimas-siniestros-viales) del gobierno, pueden descargarse datos de siniestros viales que provocaron lesiones, y homicidios en formato xlsx. En este trabajo se analiza solo el archivo **Homicidios (XLSX)**. Este archivo a su vez posee dos tablas, una llamada **hechos** y otra **víctimas**. En la tabla hechos hay información a cerca del accidente y en la tabla víctimas de las personas involucradas en el suceso.
 
+Ir directo a [Conclusiones](#Conclusiones)
+
+
 ### Análisis de la tabla **hechos**
 
 #### Número de siniestros segun cantidad de víctimas registradas
@@ -121,8 +124,31 @@ De acuerdo al cálculo realizado en el archivo EDA y ETL que forma parte de este
 Se grafica segun rango etario, los vehículos ocupados por las víctimas en el accidente (incluido peatones)
 
 
-![vehículos rango etario](Accidentes_rangoetario_vehículo.png)
+![vehículos rango etario](Accidentes_rangoetario_vehiculo.png)
+
 
 
 
 En este gráfico puede verse las víctimas segun el rango etario. En el rango de 16 a 27 años ("adolescentes") puede verse la gran diferencia de la principal causa de muerte respecto al rango que sigue de 27 a 40 años. Si bien en ambos es la moto, en el segundo caso la diferencia con respecto a peaton y a auto es mucho menor. Ya en el rango de 40 a 60 puede verse que la moto deja de ser el vehículo que tiene mayor número de muertes.
+
+## Conclusiones:
+
+Las conclusiones son con los datos disponibles y estan basadas solo en la información de homicidios entre el 2016 y 2021. No se tiene en cuenta la medición real del tránsito que ingresa a la ciudad (que también puede descargarse de la pagina oficial del Gobierno de la Ciudad de Buenos Aires).
+
+* Mas allá de que sabemos que el tránsito durante el año 2020 fue mucho menor al de años anteriores por las restricciones de circulación por la pandemia Covid-19, puede verse una disminucion sostenida de los accidentes viales cada 100000 habitantes entre 2016 y 2021.
+
+* Mas del 60 % de los homicidios se producen en avenidas y el 19 % se produce en autopistas (el tipo de vía en donde se registraron menor cantidad de homicidios).
+
+* El tipo de siniestro con muertes mas registrado es el de vehículo pasajeros - peaton.
+
+* La principal causa de muerte en siniestros, es provocada por accidentes viales de motoclistas y en segundo lugar peatones. Los peatones son atropellados principalmente por vehículos de pasajeros y en menor medida por vehiculos particulares.
+
+* Los principales acusados del accidente (acusado no implica implicacion legal) son automovilistas.
+
+* La comuna con mayor cantidad de siniestros es la 1 seguida de la 4, y la 9.
+
+* El 75 % de las victimas son hombres.
+
+* En el rango de 16 a 27 años de edad, el mayor número de víctimas es por muy lejos motociclistas, en el rango de 27 a 40 también lo sigue siendo pero con menor diferencia y toma mayor relevancia las muertes por peatones y automovilistas. Para mayores de 40 el mayor número de muertes es de peatones.
+
+* En el rango etario en donde hay mayor muertes de ciclistas es de 40 a 60.
