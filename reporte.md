@@ -91,11 +91,11 @@ En el diccionario de los datos definen al campo "participantes" como la conjunci
 
 ![participantes del siniestro](Accidentes_participantes.png)
 
-#### víctimas del siniestro
+#### Víctimas del siniestro
 
 Teniendo en cuenta el diccionario de homicidios, "víctimas" se refiere al vehículo que ocupaba la persona perjudicada.
 
-![víctimas del siniestro](Accidentes_víctimas_siniestro.png)
+![víctimas del siniestro](Accidentes_victimas_siniestro.png)
 
 
 La mayoría de las víctimas en accidentes de tránsito son motociclistas y peatones.
@@ -135,15 +135,15 @@ En este gráfico puede verse las víctimas segun el rango etario. En el rango de
 
 Las conclusiones son con los datos disponibles y estan basadas solo en la información de homicidios entre el 2016 y 2021. No se tiene en cuenta la medición real del tránsito que ingresa a la ciudad (que también puede descargarse de la pagina oficial del Gobierno de la Ciudad de Buenos Aires).
 
-* Mas allá de que sabemos que el tránsito durante el año 2020 fue mucho menor al de años anteriores por las restricciones de circulación por la pandemia Covid-19, puede verse una disminucion sostenida de los accidentes viales cada 100000 habitantes entre 2016 y 2021.
+* Mas allá de que sabemos que el tránsito durante el año 2020 fue mucho menor al de años anteriores por las restricciones de circulación por la pandemia Covid-19, puede verse una disminución sostenida de los accidentes viales cada 100000 habitantes entre 2016 y 2021.
 
 * Mas del 60 % de los homicidios se producen en avenidas y el 19 % se produce en autopistas (el tipo de vía en donde se registraron menor cantidad de homicidios).
 
-* El tipo de siniestro con muertes mas registrado es el de vehículo pasajeros - peaton.
+* El tipo de siniestro con muertes mas registrado es el de "vehículo pasajeros" - "peaton".
 
-* La principal causa de muerte en siniestros, es provocada por accidentes viales de motoclistas y en segundo lugar peatones. Los peatones son atropellados principalmente por vehículos de pasajeros y en menor medida por vehiculos particulares.
+* La principal causa de muerte en siniestros, es provocada por accidentes viales de motociclistas y en segundo lugar peatones. Los peatones son atropellados principalmente por vehículos de pasajeros y en menor medida por vehiculos particulares.
 
-* Los principales acusados del accidente (acusado no implica implicacion legal) son automovilistas.
+* El mayor número de acusados del accidente (acusado no implica implicacion legal) son automovilistas.
 
 * La comuna con mayor cantidad de siniestros es la 1 seguida de la 4, y la 9.
 
