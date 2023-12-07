@@ -124,6 +124,5 @@ Se grafica segun rango etario, los vehiculos ocupados por las victimas en el acc
 ![vehiculos rango etario](Accidentes_rangoetario_vehiculo.png)
 
 
-(pido disculpas este grafico no pudo cargarse correctamente, dirigirse al EDA y ETL para verlo.)
 
 En este gráfico puede verse las victimas segun el rango etario. En el rango de 16 a 27 años ("adolescentes") puede verse la gran diferencia de la principal causa de muerte respecto al rango que sigue de 27 a 40 años. Si bien en ambos es la moto, en el segundo caso la diferencia con respecto a peaton y a auto es mucho menor. Ya en el rango de 40 a 60 puede verse que la moto deja de ser el vehiculo que tiene mayor numero de muertes.
