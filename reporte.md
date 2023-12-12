@@ -27,7 +27,7 @@ Aunque para mayor detalle, se recomienda ingresar al archivo ETL y EDA, la mayor
 
 Para el campo fecha, se contabilizan la cantidad de siniestros registrados por días de la semana:
 
-![accidentes por dia](Accidentes_dia.png)
+![accidentes por dia](imagenes/Accidentes_dia.png)
 
 Si bien no hay mucha diferencia en cantidad de siniestros, el primer dia de la semana es cuando se producen la mayor cantidad de accidentes y podría entenderser que es por un mayor tránsito. 
 
@@ -38,7 +38,7 @@ En los días Sabado y Domingo se supone que hay menos tránsito por no ser días
 
 Del mismo modo, puede verse la distribución de los accidentes por meses del año. 
 
-![accidentes por mes](Accidentes_mes.png)
+![accidentes por mes](imagenes/Accidentes_mes.png)
 
 A priori, uno supondria que dado que en Enero el tránsito es menor que en los otros meses, podría esperar menor cantidad de accidentes, debera analizarse este punto con mayor profundidad. 
 
@@ -46,7 +46,7 @@ A priori, uno supondria que dado que en Enero el tránsito es menor que en los o
 
 Utilizando informacion de los censos del 2010 y del 2022 respecto a la cantidad de población de la Ciudad, se interpola la población para calcular la población en los años de analisis.
 
-![accidentes por c 100 k](Accidentes_c100k.png)
+![accidentes por c 100 k](imagenes/Accidentes_c100k.png)
 
 Puede verse una disminución progresiva de los accidentes con víctimas fatales a medida que pasan los años cada 100000 habitantes. Aun asi tener encuenta que durante los años 2020 y 2021 pero sobre todo 2020, el tránsito vehicular ha disminuido debido a las medidas de aislamiento  preventivo a causa del covid impulsadas por el gobierno nacional.
 
@@ -54,7 +54,7 @@ Puede verse una disminución progresiva de los accidentes con víctimas fatales 
 #### Víctimas por hora del dia
 
 
-![accidentes por hora](Accidentes_hora.png)
+![accidentes por hora](imagenes/Accidentes_hora.png)
 
 
 
@@ -62,7 +62,7 @@ Puede verse una disminución progresiva de los accidentes con víctimas fatales 
 
 
 
-![accidentes por tipo via](Accidentes_via.png)
+![accidentes por tipo via](imagenes/Accidentes_via.png)
 
 
 
@@ -79,20 +79,20 @@ De acuerdo a las definiciones del diccionario (información a cerca de los datos
 En la Ciudad de Buenos Aires hay una división política por [comunas](https://buenosaires.gob.ar/comunas). En la planilla de hechos esta especificado en que comuna se produjeron.
 
 
-![accidentes por comuna](Accidentes_comuna.png)
+![accidentes por comuna](imagenes/Accidentes_comuna.png)
 
 #### Participantes del siniestro
 
 En el diccionario de los datos definen al campo "participantes" como la conjunción de víctima y acusado. Se muestra en el gráfico de aqui abajo la frecuencia de las distintas convinaciones de victima-acusado
 
 
-![participantes del siniestro](Accidentes_participantes.png)
+![participantes del siniestro](imagenes/Accidentes_participantes.png)
 
 #### Víctimas del siniestro
 
 Teniendo en cuenta el diccionario de homicidios, "víctimas" se refiere al vehículo que ocupaba la persona perjudicada.
 
-![víctimas del siniestro](Accidentes_victimas_siniestro.png)
+![víctimas del siniestro](imagenes/Accidentes_victimas_siniestro.png)
 
 
 La mayoría de las víctimas en accidentes de tránsito son motociclistas y peatones.
@@ -102,7 +102,7 @@ No confundir con el apartado anterior, en donde se contabiliza la cantidad de si
 
 #### Acusados del siniestro
 
-![acusados del siniestro](Accidentes_acusado.png)
+![acusados del siniestro](imagenes/Accidentes_acusado.png)
 
 Puede verse de nuevo aqui la relación con los gráficos anteriores en donde las motos y los peatones son las principales víctimas de los accidentes. Ahora bien, los acusados son los autos, vehículos de pasajeros y de cargas.
 
@@ -121,7 +121,7 @@ De acuerdo al cálculo realizado en el archivo EDA y ETL que forma parte de este
 Se grafica segun rango etario, los vehículos ocupados por las víctimas en el accidente (incluido peatones)
 
 
-![vehículos rango etario](Accidentes_rangoetario_vehiculo.png)
+![vehículos rango etario](imagenes/Accidentes_rangoetario_vehiculo.png)
 
 
 
