@@ -2,23 +2,20 @@
 </center>
 
 
-Informe en base a datos extraidos de datos oficiales del Gobierno de la Ciudad durante el período Enero del 2016 a Diciembre del 2021
+Informe en base a datos oficiales del Gobierno de la Ciudad durante el período Enero del 2016 a Diciembre del 2021
 
 ## Introducción
-La ciudad de Buenos Aires es el principal conglomearado de la Argentina y en ella se producen a diario accidentes de tránsito que en muchos casos provocan víctimas fatales. La cantidad de tránsito que circula por ella no solo es debido a la población que en allí vive, sino que al ser la capital de la Republica Argentina, millones de personas provenientes del conurbano y de distintas localidades viajan a diario para trabajar, realizar trámites o desarrolar distintas actividades. En la ciudad no solo están los distintos ministerios, secreterarías y dependencias del gobierno, sino que la mayoría de las empresas tienen alli su cede central. 
-
-En la Argentina es común el dicho "Dios está en todos lados, pero atiende en Buenos Aires", talvez ello explique el altisimo tránsito de gente que se dirige hacia la ciudad todos los días.
+La ciudad de Buenos Aires es el principal conglomearado de la Argentina y en ella se producen a diario accidentes de tránsito que en muchos casos provocan víctimas fatales. La circulación vehicular no solo es debido a la población que en allí vive, sino que al ser la capital de la Republica Argentina, millones de personas provenientes del conurbano y de distintas localidades viajan a diario para trabajar, realizar trámites o desarrolar distintas actividades. En la ciudad no solo están los distintos ministerios, secreterarías y dependencias del gobierno, sino que la mayoría de las empresas tienen alli su cede central. Se dice que "Dios está en todos lados, pero atiende en Buenos Aires".
 
 Dada la alta circulacion vehicular es de esperar un número importante de siniestros de todo tipo. 
 
 Este informe está basado en datos oficiales del Gobierno de la Ciudad y busca mostrar tendencias, patrones e información que permita hacer foco en disminuir los accidentes que se producen con mayor frecuencia y tienen mayor impacto en vidas.
 
+Si tenes poco tiempo, podes ir directo a las [Conclusiones](#Conclusiones).
 
 ## Datos:
 
-Desde la [página](https://data.buenosaires.gob.ar/dataset/víctimas-siniestros-viales) del gobierno, pueden descargarse datos de siniestros viales que provocaron lesiones, y homicidios en formato xlsx. En este trabajo se analiza solo el archivo **Homicidios (XLSX)**. Este archivo a su vez posee dos tablas, una llamada **hechos** y otra **víctimas**. En la tabla hechos hay información a cerca del accidente y en la tabla víctimas de las personas involucradas en el suceso.
-
-Por si queres ir directo a [Conclusiones](#Conclusiones)
+Desde la [página](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales) del gobierno, pueden descargarse datos de siniestros viales que provocaron lesiones, y homicidios en formato xlsx. En este trabajo se analiza solo el archivo **Homicidios (XLSX)**. Este archivo a su vez posee dos tablas, una llamada **hechos** y otra **víctimas**. En la tabla hechos hay información a cerca del accidente y en la tabla víctimas de las personas involucradas en el suceso.
 
 
 ### Análisis de la tabla **hechos**
